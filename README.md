@@ -235,6 +235,10 @@ Customer Churn Analysis
 
 <p>customer-churn-analysis, churn-analysis, power-bi, data-analytics, data-visualization, business-intelligence, customer-retention, exploratory-data-analysis, dashboard, telecom-analytics</p>
 
+
+<img width="1511" height="861" alt="Screenshot 2026-10-24 170703" src="https://github.com/user-attachments/assets/70c7d5cd-6b3a-4cbe-b124-4ca7adfabcdd" />
+
+
 <h2>Tags</h2>
 
 <p>#CustomerChurn #ChurnAnalysis #PowerBI #DataAnalytics #DataVisualization #BusinessIntelligence #CustomerRetention #Dashboard #EDA #TelecomAnalytics</p>
